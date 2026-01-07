@@ -12,13 +12,21 @@
 		<data>
 		Y6UVF5E7TSf9Kb/UKj577ui7Rpk=
 		</data>
+		<key>Azure.Core.dll</key>
+		<data>
+		mM2M0u+XDMuf3jRvdApzmkkXlQY=
+		</data>
+		<key>Azure.Identity.dll</key>
+		<data>
+		MBKiPsPUogFXDFWQq9jTjRNZ0T8=
+		</data>
 		<key>Cancioneiro2.0.dll</key>
 		<data>
-		OgKif+4tJe/wox0DdPPuQc/3u1k=
+		CPBnXSl8+Z5CsEFIxjqWxQ6T6bY=
 		</data>
 		<key>Cancioneiro2.0.pdb</key>
 		<data>
-		RR2eOo6D7BIypM5/DvQwExrGu84=
+		B5U5A7jAR8vtynW1GZJpJ+6uoc8=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -40,9 +48,29 @@
 		<data>
 		ZVgM1+KwZcZnwhgaI0F7Bt1ba2c=
 		</data>
+		<key>Microsoft.Bcl.AsyncInterfaces.dll</key>
+		<data>
+		OpzUoyKo+R5nVSqHsHmkZSgFhIo=
+		</data>
+		<key>Microsoft.Bcl.Cryptography.dll</key>
+		<data>
+		MPunWp3ZPMrLZJbGQ4W9Imq2SRM=
+		</data>
 		<key>Microsoft.CSharp.dll</key>
 		<data>
 		mQrKvOl8MbAq22syd8zrPLuCIXE=
+		</data>
+		<key>Microsoft.Data.SqlClient.dll</key>
+		<data>
+		EAVl4spLbMgZOaKFaN3Ts6OdlDk=
+		</data>
+		<key>Microsoft.Extensions.Caching.Abstractions.dll</key>
+		<data>
+		NSBNRmWoFpGPgDdfRcxoh6zfwns=
+		</data>
+		<key>Microsoft.Extensions.Caching.Memory.dll</key>
+		<data>
+		0UUo+LOMogE8Z/K0qMNV+50TFS8=
 		</data>
 		<key>Microsoft.Extensions.Configuration.Abstractions.dll</key>
 		<data>
@@ -92,6 +120,38 @@
 		<data>
 		kMM/hdnZfPgRglvw4lsJkVeF69s=
 		</data>
+		<key>Microsoft.Identity.Client.Extensions.Msal.dll</key>
+		<data>
+		Ly+d2s8pLstHGF3OrBYRIL1Jc/M=
+		</data>
+		<key>Microsoft.Identity.Client.dll</key>
+		<data>
+		G3gx/cqrM+jqaiouAG1u9QS8sAE=
+		</data>
+		<key>Microsoft.IdentityModel.Abstractions.dll</key>
+		<data>
+		tGQf3gWPmU1GPeJkOIm43l2BdNI=
+		</data>
+		<key>Microsoft.IdentityModel.JsonWebTokens.dll</key>
+		<data>
+		Si4J8ZzTvTLzpGhvk/FATshy4EY=
+		</data>
+		<key>Microsoft.IdentityModel.Logging.dll</key>
+		<data>
+		DBGnkQ06miC34QRDF1+pASIqgdA=
+		</data>
+		<key>Microsoft.IdentityModel.Protocols.OpenIdConnect.dll</key>
+		<data>
+		+He1OcnJ5Td74QMlOfiLGicF/xw=
+		</data>
+		<key>Microsoft.IdentityModel.Protocols.dll</key>
+		<data>
+		DrKO9ONLaYA6FXEi4XpPAZcD6Wo=
+		</data>
+		<key>Microsoft.IdentityModel.Tokens.dll</key>
+		<data>
+		cpw17q0JRF4U/z380ZVB/xEW7ZQ=
+		</data>
 		<key>Microsoft.Maui.Controls.Xaml.dll</key>
 		<data>
 		+9gcmNiZX0p11Pa5oMsFk/3IWY0=
@@ -111,6 +171,10 @@
 		<key>Microsoft.Maui.dll</key>
 		<data>
 		uQwDu5CqDCSoqP5lH6CH9qTHSU8=
+		</data>
+		<key>Microsoft.SqlServer.Server.dll</key>
+		<data>
+		BEE4zlKwZ+k4wv7bPZULlMaGgw8=
 		</data>
 		<key>Microsoft.VisualBasic.Core.dll</key>
 		<data>
@@ -168,6 +232,10 @@
 		<data>
 		0TS0z2HWIKAqSNG4vNYR0m5I3as=
 		</data>
+		<key>System.ClientModel.dll</key>
+		<data>
+		iH+/utN4s+qO4xwbhw7HgWltdic=
+		</data>
 		<key>System.Collections.Concurrent.dll</key>
 		<data>
 		nKC0jwzBLhQvAPMJVWf300JZGTk=
@@ -212,6 +280,10 @@
 		<data>
 		opKnrqWjMg4K2tY/z9RMn/UKqYs=
 		</data>
+		<key>System.Configuration.ConfigurationManager.dll</key>
+		<data>
+		tVlGykGSkXMq0xSa6Vt3wlyf7P8=
+		</data>
 		<key>System.Configuration.dll</key>
 		<data>
 		V7Iq8HZY60b0sKL29mG971Fgrz8=
@@ -247,6 +319,10 @@
 		<key>System.Diagnostics.DiagnosticSource.dll</key>
 		<data>
 		7cxBhOg3FF1BdIXYUhpV4i8YeMo=
+		</data>
+		<key>System.Diagnostics.EventLog.dll</key>
+		<data>
+		L1L9LvQ5OCXPW3a0DxTFOrsy5FU=
 		</data>
 		<key>System.Diagnostics.FileVersionInfo.dll</key>
 		<data>
@@ -372,6 +448,10 @@
 		<data>
 		GePuBO7J+5oOaArLqarqEM7vEEs=
 		</data>
+		<key>System.IdentityModel.Tokens.Jwt.dll</key>
+		<data>
+		f4QZNVI8WLD7pEiyfQn3Zlza06Q=
+		</data>
 		<key>System.Linq.AsyncEnumerable.dll</key>
 		<data>
 		7q/OilmBL+d8SUn75RJiZPz7YW0=
@@ -391,6 +471,10 @@
 		<key>System.Linq.dll</key>
 		<data>
 		UfE4y1O8wMtG2lbd//Orab0dx20=
+		</data>
+		<key>System.Memory.Data.dll</key>
+		<data>
+		mt/YssbVhpxAGbh3j2U3cjGiBU8=
 		</data>
 		<key>System.Memory.dll</key>
 		<data>
@@ -652,9 +736,17 @@
 		<data>
 		4imU/tP2zlkq92U4ac9P7McD0wM=
 		</data>
+		<key>System.Security.Cryptography.Pkcs.dll</key>
+		<data>
+		ofCSai7OSSx3NSzSVS3QwVS9IwM=
+		</data>
 		<key>System.Security.Cryptography.Primitives.dll</key>
 		<data>
 		INKaU37huTeqJAhjLPE8VTrzqps=
+		</data>
+		<key>System.Security.Cryptography.ProtectedData.dll</key>
+		<data>
+		Mv+bqvjEEoFHhGETD++bcgHN87E=
 		</data>
 		<key>System.Security.Cryptography.X509Certificates.dll</key>
 		<data>
@@ -840,6 +932,10 @@
 		<data>
 		qSPIFpLG00zNUVARYzW04BstQ8Q=
 		</data>
+		<key>cs/Microsoft.Data.SqlClient.resources.dll</key>
+		<data>
+		XEKTimaIs0jfMKCUlA5uN72+Ujo=
+		</data>
 		<key>cs/Microsoft.Maui.Controls.resources.dll</key>
 		<data>
 		WcX4/rW1gfiDZY8swvE07Pmmp/U=
@@ -847,6 +943,10 @@
 		<key>da/Microsoft.Maui.Controls.resources.dll</key>
 		<data>
 		5o8Jq0yyR0tAB5sTjBU2i4ZXUdE=
+		</data>
+		<key>de/Microsoft.Data.SqlClient.resources.dll</key>
+		<data>
+		0FDae0w2jLIOKiPOAmK0WFtM4NI=
 		</data>
 		<key>de/Microsoft.Maui.Controls.resources.dll</key>
 		<data>
@@ -868,6 +968,10 @@
 		<data>
 		TQkpk5G4LYxzSVFM6xq1rpHhq6A=
 		</data>
+		<key>es/Microsoft.Data.SqlClient.resources.dll</key>
+		<data>
+		XJVYLpiGKFCvASCjRF/+IUuRszk=
+		</data>
 		<key>es/Microsoft.Maui.Controls.resources.dll</key>
 		<data>
 		km1SRHACkJEKkHbwXO2i+FQY36w=
@@ -875,6 +979,10 @@
 		<key>fi/Microsoft.Maui.Controls.resources.dll</key>
 		<data>
 		fe+Z6ZHE1VVCcH0a80YbGt2y4z8=
+		</data>
+		<key>fr/Microsoft.Data.SqlClient.resources.dll</key>
+		<data>
+		doQSuLEjp1Npit1hMxYL8Y9HhaQ=
 		</data>
 		<key>fr/Microsoft.Maui.Controls.resources.dll</key>
 		<data>
@@ -900,13 +1008,25 @@
 		<data>
 		4wUSd34wGBQiEn+CbHM3k5JtlWY=
 		</data>
+		<key>it/Microsoft.Data.SqlClient.resources.dll</key>
+		<data>
+		NFEvNZ2HCQp61WEabRTvBivZFmo=
+		</data>
 		<key>it/Microsoft.Maui.Controls.resources.dll</key>
 		<data>
 		Smkjr6VDOsXdszP4K+3BEf0CQ1E=
 		</data>
+		<key>ja/Microsoft.Data.SqlClient.resources.dll</key>
+		<data>
+		oYAJoyKeiCNYBqxStf1yRYWwrUE=
+		</data>
 		<key>ja/Microsoft.Maui.Controls.resources.dll</key>
 		<data>
 		VNw7CPNJzUFVOf1UnzGBzu1ZbEs=
+		</data>
+		<key>ko/Microsoft.Data.SqlClient.resources.dll</key>
+		<data>
+		ri8RY1fe9nj916/FfPi36BvNJfU=
 		</data>
 		<key>ko/Microsoft.Maui.Controls.resources.dll</key>
 		<data>
@@ -976,9 +1096,17 @@
 		<data>
 		K+MMzWGupSdcFLf7EjW1Bi7dDNg=
 		</data>
+		<key>pl/Microsoft.Data.SqlClient.resources.dll</key>
+		<data>
+		kcm0rrDx1xlfKSWveIBSjoPc5R0=
+		</data>
 		<key>pl/Microsoft.Maui.Controls.resources.dll</key>
 		<data>
 		n1sm1c7PbnRIGibkwxP4AG6FK5Q=
+		</data>
+		<key>pt-BR/Microsoft.Data.SqlClient.resources.dll</key>
+		<data>
+		QETPQ6HV4AmHWe8cPe2kgFUnMyc=
 		</data>
 		<key>pt-BR/Microsoft.Maui.Controls.resources.dll</key>
 		<data>
@@ -991,6 +1119,10 @@
 		<key>ro/Microsoft.Maui.Controls.resources.dll</key>
 		<data>
 		oZV7zEavC+nKj+w2MOyiBxDiPV8=
+		</data>
+		<key>ru/Microsoft.Data.SqlClient.resources.dll</key>
+		<data>
+		xBEAKhnNZtjuMG/abzkGyzrTuzo=
 		</data>
 		<key>ru/Microsoft.Maui.Controls.resources.dll</key>
 		<data>
@@ -1024,6 +1156,10 @@
 		<data>
 		YwZy9x1teUZBnAaDIBe0XgAQ5r0=
 		</data>
+		<key>tr/Microsoft.Data.SqlClient.resources.dll</key>
+		<data>
+		sSzLWSWth8sS307GIEwtMj09Sr4=
+		</data>
 		<key>tr/Microsoft.Maui.Controls.resources.dll</key>
 		<data>
 		4fDGR8hU5YBG8GWhMNeLz271JEg=
@@ -1044,9 +1180,17 @@
 		<data>
 		F1A3NA0d1YDy2F9+uevZCuFaZjY=
 		</data>
+		<key>zh-Hans/Microsoft.Data.SqlClient.resources.dll</key>
+		<data>
+		d6YrtUcMHxFn2o1c9hu5mr8BxKU=
+		</data>
 		<key>zh-Hans/Microsoft.Maui.Controls.resources.dll</key>
 		<data>
 		Na+tyQg2N09D9zQEu5QWfzrgFAM=
+		</data>
+		<key>zh-Hant/Microsoft.Data.SqlClient.resources.dll</key>
+		<data>
+		nXbF7KbiIVMQ72sa54m/v+FwfTk=
 		</data>
 		<key>zh-Hant/Microsoft.Maui.Controls.resources.dll</key>
 		<data>
@@ -1069,18 +1213,32 @@
 			D6/LT5fInmVppMelPLO4RU8Uw1McdsCjnURQDc0+yQc=
 			</data>
 		</dict>
+		<key>Azure.Core.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XPkT7v7OcNfzWh48sCoaOgW/rFkQ+joJ2pm/y8sbIU0=
+			</data>
+		</dict>
+		<key>Azure.Identity.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Vo51CT7GZU4Y9t/45X7exZCDtcwAExQKj9vrB+F9q4E=
+			</data>
+		</dict>
 		<key>Cancioneiro2.0.dll</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qwndg9/98zKCZDuHjw6Ao8gOZuVE1btW3c+94Tb+laA=
+			M+qTngUTjh3pjUjm0hQWFwOflCz/s/BM6eEyJLHOThQ=
 			</data>
 		</dict>
 		<key>Cancioneiro2.0.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gXCXXFTGHHlavgxpJMr/HtV+tdQSEKtazqIwAxE3mfQ=
+			6XHj2hDq4ORJH83M8bvoK/Kn9QFcH4bK0JvASFAHyLQ=
 			</data>
 		</dict>
 		<key>MauiInfo.plist</key>
@@ -1111,11 +1269,46 @@
 			VPNjf2cf66XxnoLsT0p/tEi7PPwPsYDwiapXH8jwU+I=
 			</data>
 		</dict>
+		<key>Microsoft.Bcl.AsyncInterfaces.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			E21ZZc9HaOhCC1R6i93qiCkh9CbDcYM9VYqFii8MI1o=
+			</data>
+		</dict>
+		<key>Microsoft.Bcl.Cryptography.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DmF3A6MZwWYtOaFPkwa3K1VIQXjwbYNL8RLpdXBXYTc=
+			</data>
+		</dict>
 		<key>Microsoft.CSharp.dll</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			OhNAwq2pLpeSeXnJnO8lpp+bDGuHbpjNZgOKqx48i/A=
+			</data>
+		</dict>
+		<key>Microsoft.Data.SqlClient.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EMI1zxjsH51iVHLtsB5H3HSKFFzPbQUk4vbEpiIGhVA=
+			</data>
+		</dict>
+		<key>Microsoft.Extensions.Caching.Abstractions.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HZg0rv3/eDtoFwI/l6VyBOKxVzdQ9OHn1GeQvMBzsEs=
+			</data>
+		</dict>
+		<key>Microsoft.Extensions.Caching.Memory.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/qn7s2I0qECT1CLKoYTLT+pfZMQyl6dOq/jkacL+XfQ=
 			</data>
 		</dict>
 		<key>Microsoft.Extensions.Configuration.Abstractions.dll</key>
@@ -1202,6 +1395,62 @@
 			aq+Sk0P9AkFdbLXZA4FsLxyDGxlL/noVeJh5CT0Pprc=
 			</data>
 		</dict>
+		<key>Microsoft.Identity.Client.Extensions.Msal.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YekpOw9s+gFqjAhGH38bt1xiXzAUAXICYMcjgwRV6rU=
+			</data>
+		</dict>
+		<key>Microsoft.Identity.Client.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XmlO0QNvVx84wBIxjA990BzgwMkzBxk4PU8LJnESIBY=
+			</data>
+		</dict>
+		<key>Microsoft.IdentityModel.Abstractions.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JOl7VLa1wjShJKM2dX4xFmF6xsMLZVza50UX3C7LV0Y=
+			</data>
+		</dict>
+		<key>Microsoft.IdentityModel.JsonWebTokens.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			d2HIDejpyw8B10/83dP8Yg4cySvdxvf8rMNCrPsAd9I=
+			</data>
+		</dict>
+		<key>Microsoft.IdentityModel.Logging.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			P+XYWP5KaYKBytOKlTW1Ne1iaodNBgpnY8CFVEsQie4=
+			</data>
+		</dict>
+		<key>Microsoft.IdentityModel.Protocols.OpenIdConnect.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			H/GtoUMYyyYvIrhb/uOsJEivg2JFczgQb9nwFR1LO3U=
+			</data>
+		</dict>
+		<key>Microsoft.IdentityModel.Protocols.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PRLTtWzr8GowtOZI/AFEdriLbIszPHOxdLAG3KItmB8=
+			</data>
+		</dict>
+		<key>Microsoft.IdentityModel.Tokens.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2mZ9EoB30q4BQaVi5zhx2xV2OXR/v6MNDr22k63OcYo=
+			</data>
+		</dict>
 		<key>Microsoft.Maui.Controls.Xaml.dll</key>
 		<dict>
 			<key>hash2</key>
@@ -1235,6 +1484,13 @@
 			<key>hash2</key>
 			<data>
 			zk19gJ/WYR8POGQTHVGQMvjHB/IOKDneOEZC2QtG1PI=
+			</data>
+		</dict>
+		<key>Microsoft.SqlServer.Server.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qdyhtCvIdflmt4ssCIDmK4OPDtZWcWbX8fB65LduxL8=
 			</data>
 		</dict>
 		<key>Microsoft.VisualBasic.Core.dll</key>
@@ -1328,6 +1584,13 @@
 			Ph8miE5b3R12LGzNPMvHnKRF04evxu+2w1gLXyLNuvg=
 			</data>
 		</dict>
+		<key>System.ClientModel.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BJRyfCioijherXCgW18KTKDzS2C9BdLxzBCTEx38hfM=
+			</data>
+		</dict>
 		<key>System.Collections.Concurrent.dll</key>
 		<dict>
 			<key>hash2</key>
@@ -1405,6 +1668,13 @@
 			tAFlwP1PvlCSrL6pqqeciz4RZmiSPp5FaA5EpSiT/Y8=
 			</data>
 		</dict>
+		<key>System.Configuration.ConfigurationManager.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gn1vz4XKbxyF3nP1m8BtzFB6g/WrZAvd4wBWpPKJcdw=
+			</data>
+		</dict>
 		<key>System.Configuration.dll</key>
 		<dict>
 			<key>hash2</key>
@@ -1466,6 +1736,13 @@
 			<key>hash2</key>
 			<data>
 			xdrn8ebc0HlfuawOlqqapXLHfO3BS5v+mqjzjC9xPnY=
+			</data>
+		</dict>
+		<key>System.Diagnostics.EventLog.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			d22Gq0TjXxrJBnJxF0QIS2ALigbFzEesZ6MYA+fALls=
 			</data>
 		</dict>
 		<key>System.Diagnostics.FileVersionInfo.dll</key>
@@ -1685,6 +1962,13 @@
 			KUcGfds3U7FCYrnt0uT/3pXHrwQeIp2TEn1eBrdIVH0=
 			</data>
 		</dict>
+		<key>System.IdentityModel.Tokens.Jwt.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VwPzRMKN7EDkQTYl/SjzksaJ/JDDyedXHtcf6UXvdwE=
+			</data>
+		</dict>
 		<key>System.Linq.AsyncEnumerable.dll</key>
 		<dict>
 			<key>hash2</key>
@@ -1718,6 +2002,13 @@
 			<key>hash2</key>
 			<data>
 			J5HS5flm8zaPcAlFOHXtNXTU7yfiMNADX6W2wsOjhrU=
+			</data>
+		</dict>
+		<key>System.Memory.Data.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uueaT/bo/Ptlo9iOtT0oGJjmmeVHHr14CEPlYWdT8MM=
 			</data>
 		</dict>
 		<key>System.Memory.dll</key>
@@ -2175,11 +2466,25 @@
 			lZ6KcSz9acR47F6ZDRfOID+qVecMyGXR3+bzQd5PFxg=
 			</data>
 		</dict>
+		<key>System.Security.Cryptography.Pkcs.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bPa2nAq5YeTz5+oQkaLzMn/bqb8c7Db0xbzoAek+Noo=
+			</data>
+		</dict>
 		<key>System.Security.Cryptography.Primitives.dll</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			+ewM+cn9sJ2L+R4cbeLm6ZFSM4DP+JyJ2SbQAee9m08=
+			</data>
+		</dict>
+		<key>System.Security.Cryptography.ProtectedData.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EeNZ5DtZjCqX5GK2Dpo9HXenkKxBi6G7Lm2/AJ8uTyI=
 			</data>
 		</dict>
 		<key>System.Security.Cryptography.X509Certificates.dll</key>
@@ -2504,6 +2809,13 @@
 			3+l0VmrMAxcnD4PKEOv4a9OvC4G7NQk/jxndUjlfB3c=
 			</data>
 		</dict>
+		<key>cs/Microsoft.Data.SqlClient.resources.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LR72hgGyj6DW9LMfi9Bn5xqIkxD889/Z49FEMWYTi0k=
+			</data>
+		</dict>
 		<key>cs/Microsoft.Maui.Controls.resources.dll</key>
 		<dict>
 			<key>hash2</key>
@@ -2516,6 +2828,13 @@
 			<key>hash2</key>
 			<data>
 			UImYIYXzf6Z7c0yo5qsTFAPh4KHpsyoKLMfWrcbRJo8=
+			</data>
+		</dict>
+		<key>de/Microsoft.Data.SqlClient.resources.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Qhbpx+Fxqta1v8/6hwzMNV5NltMmv+y+E/qnPMmw9W8=
 			</data>
 		</dict>
 		<key>de/Microsoft.Maui.Controls.resources.dll</key>
@@ -2553,6 +2872,13 @@
 			OHyFfPbc1aHmEAundlXz0rC9EToTm/4t8HySjNBdq5U=
 			</data>
 		</dict>
+		<key>es/Microsoft.Data.SqlClient.resources.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JR2iKr8fuhsJrJnhFMIZVclp8i7EZQvdsb6qn+O6N3Q=
+			</data>
+		</dict>
 		<key>es/Microsoft.Maui.Controls.resources.dll</key>
 		<dict>
 			<key>hash2</key>
@@ -2565,6 +2891,13 @@
 			<key>hash2</key>
 			<data>
 			tOqD/69H69KZhPBLbyW3z+NBLu4ACJLSt0d3DSk3ayc=
+			</data>
+		</dict>
+		<key>fr/Microsoft.Data.SqlClient.resources.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ve43zFYTM4NrR6JKElm1+F/f2FCBK31UKbbL1SoCI/8=
 			</data>
 		</dict>
 		<key>fr/Microsoft.Maui.Controls.resources.dll</key>
@@ -2609,6 +2942,13 @@
 			/8G2CmzYvHXObDfunLt2u1UPkKz2jW6YNl9JsTA8kiI=
 			</data>
 		</dict>
+		<key>it/Microsoft.Data.SqlClient.resources.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UvpSekodZyWuwVd0TB2LAWKJxiia+HbjfFtlKuET6zE=
+			</data>
+		</dict>
 		<key>it/Microsoft.Maui.Controls.resources.dll</key>
 		<dict>
 			<key>hash2</key>
@@ -2616,11 +2956,25 @@
 			RWyEX4tQAEo+KoW52aJxPHrDZExUGZn5baNIwIxvqeo=
 			</data>
 		</dict>
+		<key>ja/Microsoft.Data.SqlClient.resources.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fZSXELXe3JcO5tKlV2S5QCCWMk5xCyz+I3OthddhhwE=
+			</data>
+		</dict>
 		<key>ja/Microsoft.Maui.Controls.resources.dll</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			04BPI4iLYWlVb9JFTxw/mQz44NfMuYFh1e/FYSGaVQg=
+			</data>
+		</dict>
+		<key>ko/Microsoft.Data.SqlClient.resources.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yBK8mqA5SW2jDGtpaccaPghmag3V8fYLAVwCkPFpe0U=
 			</data>
 		</dict>
 		<key>ko/Microsoft.Maui.Controls.resources.dll</key>
@@ -2742,11 +3096,25 @@
 			/kR1pkNG7n0jCIOu5qDDvlIlkuaXhaaIJsgS23PQPa4=
 			</data>
 		</dict>
+		<key>pl/Microsoft.Data.SqlClient.resources.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XN0NqTmLGJLlNJveD9kwkiZFGwjMQv3/n5ATyylQcMM=
+			</data>
+		</dict>
 		<key>pl/Microsoft.Maui.Controls.resources.dll</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			dNcQXcoEhr7tuQ9CbdShLv4lr1libbtOmu0wtJ9s61I=
+			</data>
+		</dict>
+		<key>pt-BR/Microsoft.Data.SqlClient.resources.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lrYrWM/WY9zdfQFZF2DcDlcVIWSgvE6kd7Z+kRo9f9I=
 			</data>
 		</dict>
 		<key>pt-BR/Microsoft.Maui.Controls.resources.dll</key>
@@ -2768,6 +3136,13 @@
 			<key>hash2</key>
 			<data>
 			yXWDVZGg22CVlgiqRLsuq8Yi9n4vqm6Jd8YqNm48pCA=
+			</data>
+		</dict>
+		<key>ru/Microsoft.Data.SqlClient.resources.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3UNZtYBPNtAeFevThoJcB45M1R+MU6SxGif+Ul/XpoY=
 			</data>
 		</dict>
 		<key>ru/Microsoft.Maui.Controls.resources.dll</key>
@@ -2826,6 +3201,13 @@
 			ZU2899mfsXtQO604v5G2b751nhSWLqH5+R/Iwxf0KA4=
 			</data>
 		</dict>
+		<key>tr/Microsoft.Data.SqlClient.resources.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			k+93chEv/XfCbIcOnNO9lN3cSci7Q/ZdmHi1TwANCgM=
+			</data>
+		</dict>
 		<key>tr/Microsoft.Maui.Controls.resources.dll</key>
 		<dict>
 			<key>hash2</key>
@@ -2861,11 +3243,25 @@
 			Zn41PaPWhYkANPh1THr+9GuGoHRklMmhoVnLwYap9oY=
 			</data>
 		</dict>
+		<key>zh-Hans/Microsoft.Data.SqlClient.resources.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WZMqksGSnmnW23rhK8BgLZoBqZXtxCX44Dyo7nN64sc=
+			</data>
+		</dict>
 		<key>zh-Hans/Microsoft.Maui.Controls.resources.dll</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			HkMzPSM0tb2UaHcvji7/3OOdLpv4bRQgHUWBpNMYwqY=
+			</data>
+		</dict>
+		<key>zh-Hant/Microsoft.Data.SqlClient.resources.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PzqJHMq+7lPPq9YQ3ASPxZo+xZaVeDYmNPT8kczG2EM=
 			</data>
 		</dict>
 		<key>zh-Hant/Microsoft.Maui.Controls.resources.dll</key>

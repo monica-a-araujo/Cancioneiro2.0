@@ -1,6 +1,6 @@
 ﻿namespace Cancioneiro2._0;
 
-public partial clas s AppShell : Shell
+public partial class AppShell : Shell
 {
     public AppShell()
     {
