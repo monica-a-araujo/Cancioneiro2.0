@@ -55,10 +55,14 @@
 /Users/monicaaraujo/Desktop/Jocade/Cancioneiro2.0/Cancioneiro2.0/bin/Debug/net10.0-ios/iossimulator-arm64/publish/../Cancioneiro2.0.app/Microsoft.Extensions.Caching.Memory.dll
 /Users/monicaaraujo/Desktop/Jocade/Cancioneiro2.0/Cancioneiro2.0/bin/Debug/net10.0-ios/iossimulator-arm64/publish/../Cancioneiro2.0.app/Microsoft.Extensions.Configuration.dll
 /Users/monicaaraujo/Desktop/Jocade/Cancioneiro2.0/Cancioneiro2.0/bin/Debug/net10.0-ios/iossimulator-arm64/publish/../Cancioneiro2.0.app/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/monicaaraujo/Desktop/Jocade/Cancioneiro2.0/Cancioneiro2.0/bin/Debug/net10.0-ios/iossimulator-arm64/publish/../Cancioneiro2.0.app/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/monicaaraujo/Desktop/Jocade/Cancioneiro2.0/Cancioneiro2.0/bin/Debug/net10.0-ios/iossimulator-arm64/publish/../Cancioneiro2.0.app/Microsoft.Extensions.Configuration.Json.dll
 /Users/monicaaraujo/Desktop/Jocade/Cancioneiro2.0/Cancioneiro2.0/bin/Debug/net10.0-ios/iossimulator-arm64/publish/../Cancioneiro2.0.app/Microsoft.Extensions.DependencyInjection.dll
 /Users/monicaaraujo/Desktop/Jocade/Cancioneiro2.0/Cancioneiro2.0/bin/Debug/net10.0-ios/iossimulator-arm64/publish/../Cancioneiro2.0.app/Microsoft.Extensions.DependencyInjection.Abstractions.dll
 /Users/monicaaraujo/Desktop/Jocade/Cancioneiro2.0/Cancioneiro2.0/bin/Debug/net10.0-ios/iossimulator-arm64/publish/../Cancioneiro2.0.app/Microsoft.Extensions.Diagnostics.Abstractions.dll
 /Users/monicaaraujo/Desktop/Jocade/Cancioneiro2.0/Cancioneiro2.0/bin/Debug/net10.0-ios/iossimulator-arm64/publish/../Cancioneiro2.0.app/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/monicaaraujo/Desktop/Jocade/Cancioneiro2.0/Cancioneiro2.0/bin/Debug/net10.0-ios/iossimulator-arm64/publish/../Cancioneiro2.0.app/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/monicaaraujo/Desktop/Jocade/Cancioneiro2.0/Cancioneiro2.0/bin/Debug/net10.0-ios/iossimulator-arm64/publish/../Cancioneiro2.0.app/Microsoft.Extensions.FileSystemGlobbing.dll
 /Users/monicaaraujo/Desktop/Jocade/Cancioneiro2.0/Cancioneiro2.0/bin/Debug/net10.0-ios/iossimulator-arm64/publish/../Cancioneiro2.0.app/Microsoft.Extensions.Hosting.Abstractions.dll
 /Users/monicaaraujo/Desktop/Jocade/Cancioneiro2.0/Cancioneiro2.0/bin/Debug/net10.0-ios/iossimulator-arm64/publish/../Cancioneiro2.0.app/Microsoft.Extensions.Logging.dll
 /Users/monicaaraujo/Desktop/Jocade/Cancioneiro2.0/Cancioneiro2.0/bin/Debug/net10.0-ios/iossimulator-arm64/publish/../Cancioneiro2.0.app/Microsoft.Extensions.Logging.Abstractions.dll

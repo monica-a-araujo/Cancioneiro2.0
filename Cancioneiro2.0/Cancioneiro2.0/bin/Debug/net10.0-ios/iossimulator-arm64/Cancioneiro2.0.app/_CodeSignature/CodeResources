@@ -22,11 +22,11 @@
 		</data>
 		<key>Cancioneiro2.0.dll</key>
 		<data>
-		CPBnXSl8+Z5CsEFIxjqWxQ6T6bY=
+		/o3psaCS0i8wtM2tUX/W3LnFVtY=
 		</data>
 		<key>Cancioneiro2.0.pdb</key>
 		<data>
-		B5U5A7jAR8vtynW1GZJpJ+6uoc8=
+		t369KTjJV2N/Irqo+JYfYl+/xNg=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -74,11 +74,19 @@
 		</data>
 		<key>Microsoft.Extensions.Configuration.Abstractions.dll</key>
 		<data>
-		rP2VSgXuRqOx2fiUk7xmJdqD2Mk=
+		e8G62UtqpJEuNqP7vYKjzhXal0w=
+		</data>
+		<key>Microsoft.Extensions.Configuration.FileExtensions.dll</key>
+		<data>
+		tV2CcDkDCbqPqRPIdLzyHxyQErg=
+		</data>
+		<key>Microsoft.Extensions.Configuration.Json.dll</key>
+		<data>
+		7o4CFQAt1fuCLuc+ewt33Fmcka4=
 		</data>
 		<key>Microsoft.Extensions.Configuration.dll</key>
 		<data>
-		sGX3TpeZinhi5dxH03o32sjO03c=
+		ULaAKNT0dWWMo3lKyqq/oU8z4Sc=
 		</data>
 		<key>Microsoft.Extensions.DependencyInjection.Abstractions.dll</key>
 		<data>
@@ -94,7 +102,15 @@
 		</data>
 		<key>Microsoft.Extensions.FileProviders.Abstractions.dll</key>
 		<data>
-		nJGhgpwYrhzJhLNBb+YS+HqyMOM=
+		gRR+sxWxp/HHQBXGEQauI9VkEhQ=
+		</data>
+		<key>Microsoft.Extensions.FileProviders.Physical.dll</key>
+		<data>
+		FsM9xkowCF4tXqgiJoP1kfm2pT8=
+		</data>
+		<key>Microsoft.Extensions.FileSystemGlobbing.dll</key>
+		<data>
+		T3gIvFLXPYMewPjZorKzsHk1ncM=
 		</data>
 		<key>Microsoft.Extensions.Hosting.Abstractions.dll</key>
 		<data>
@@ -118,7 +134,7 @@
 		</data>
 		<key>Microsoft.Extensions.Primitives.dll</key>
 		<data>
-		kMM/hdnZfPgRglvw4lsJkVeF69s=
+		mSeZWxmrqGx4OfxdZIsvBzKoKgc=
 		</data>
 		<key>Microsoft.Identity.Client.Extensions.Msal.dll</key>
 		<data>
@@ -1231,14 +1247,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			M+qTngUTjh3pjUjm0hQWFwOflCz/s/BM6eEyJLHOThQ=
+			wgSNgcer2Mk9SH6fNBVf+/RLSgwDn1548dg/mF0f5Sk=
 			</data>
 		</dict>
 		<key>Cancioneiro2.0.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6XHj2hDq4ORJH83M8bvoK/Kn9QFcH4bK0JvASFAHyLQ=
+			q2VWSztP8/fTFN8xeGimH5fCF2I/1ALl223u4y+MlYA=
 			</data>
 		</dict>
 		<key>MauiInfo.plist</key>
@@ -1315,14 +1331,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Xe9o4cfZwfz1YVO7Zp4A2Ewa4Xs1+wnFqMz5PpuTTT4=
+			kkESqCMsPH+ToVrnF0Q5Ai6r4PiuaYn0OoXO51h5GqM=
+			</data>
+		</dict>
+		<key>Microsoft.Extensions.Configuration.FileExtensions.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			E7CQJJ0sNVWy3q1xj8w7kWEyW73t9COShyL0FoiNuDc=
+			</data>
+		</dict>
+		<key>Microsoft.Extensions.Configuration.Json.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qwkHQTy/5U3cqa1Ev+rgBS5Ag0ZJs/abUbuMODN+vLA=
 			</data>
 		</dict>
 		<key>Microsoft.Extensions.Configuration.dll</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lMOYEIT3E6Ua09JmFFFU0kaPWcTNPivegpQb+E6X+1U=
+			2I3XomBYyPb6nmqXD7huNRAUTrZtGQEKzOCOqaIY7bk=
 			</data>
 		</dict>
 		<key>Microsoft.Extensions.DependencyInjection.Abstractions.dll</key>
@@ -1350,7 +1380,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fuk1qt2K/i9zHWVe9UR57WIG5tKqUr/RiJzfFwsPk5k=
+			0hY9W2j5PEr2JWQ6R5hQEU6d80W3NOBLeBIOi6WURnE=
+			</data>
+		</dict>
+		<key>Microsoft.Extensions.FileProviders.Physical.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			p5GQ6qx8vPwnRDhbER6i3Cv/S9pBGrmtf1Fbdkp55lE=
+			</data>
+		</dict>
+		<key>Microsoft.Extensions.FileSystemGlobbing.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CKlYipd7neH5XnxAgE5tCz6geuD/jvbFAzAaEI+7d4o=
 			</data>
 		</dict>
 		<key>Microsoft.Extensions.Hosting.Abstractions.dll</key>
@@ -1392,7 +1436,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aq+Sk0P9AkFdbLXZA4FsLxyDGxlL/noVeJh5CT0Pprc=
+			OhEIGk1FOuaLegqMv809i3HaxY14JrhhCmwRErFkoGM=
 			</data>
 		</dict>
 		<key>Microsoft.Identity.Client.Extensions.Msal.dll</key>
