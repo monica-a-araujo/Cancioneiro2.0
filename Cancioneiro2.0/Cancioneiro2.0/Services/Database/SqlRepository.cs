@@ -11,23 +11,29 @@ public class SqlRepository
 
         while (reader.Read())
         {
-            T element = (T)Activator.CreateInstance(typeof(T));
-            element.ConvertSQLtoObject(reader);
-            ret.Add(element);
+            T? element = (T)Activator.CreateInstance(typeof(T)) as T;
+            
+            if (element != null)
+            {
+                element.ConvertSQLtoObject(reader);
+                ret.Add(element);
+            }
         }
 
         return ret;
     }
 
-    public static T GetElement<T>(SqlDataReader reader) where T : SqlEntity
+    public static T? GetElement<T>(SqlDataReader reader) where T : SqlEntity
     {
-        T ret = default(T);
+        T? ret = default(T);
 
         if (reader.Read())
         {
             ret = (T)Activator.CreateInstance(typeof(T));
-            ret.ConvertSQLtoObject(reader);
-        }
+            if (ret != null)
+            {
+                ret.ConvertSQLtoObject(reader);
+            }        }
 
         return ret;
     }

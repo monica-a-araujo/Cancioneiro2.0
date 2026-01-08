@@ -10,9 +10,25 @@ namespace Cancioneiro2._0.Services.Database;
 // Interface do SqlDatabaseService
 public interface ISqlDatabaseService
 {
+    /// <summary>
+    /// Inicializa e testa a conexão à base de dados
+    /// </summary>
+    /// <returns>String vazia se sucesso, mensagem de erro caso contrário</returns>
     Task<string> InitializeAsync();
+    
+    /// <summary>
+    /// Executa SELECT sem encriptação
+    /// </summary>
     Task<object> SelectRequestAsync<T>(string sqlQuery, bool isMany) where T : SqlEntity;
-    Task<object> SelectRequestWithDecryptionAsync<T>(string sqlQuery, bool isMany, string keyName, string certificateName) where T : SqlEntity;
+    
+    /// <summary>
+    /// Executa SELECT com desencriptação (SYMMETRIC KEY)
+    /// </summary>
+    Task<object> SelectRequestWithDecryptionAsync<T>(string sqlQuery, bool isMany, string? keyName, string? certificateName) where T : SqlEntity;
+   
+    /// <summary>
+    /// Executa INSERT, UPDATE ou DELETE
+    /// </summary>
     Task InsertRequestAsync(string sqlQuery);
 }
 
@@ -22,8 +38,8 @@ public class SqlDatabaseService : ISqlDatabaseService
     
     public SqlDatabaseService(IConfiguration configuration)
     {
-        // Lê connection string do appsettings.json
-        _connectionString = configuration.GetConnectionString("AzureSqlDatabase");
+        _connectionString = configuration.GetConnectionString("AzureSqlDatabase") 
+                            ?? throw new InvalidOperationException("Connection string 'AzureSqlDatabase' não encontrada no appsettings.json");
     }
 
 
@@ -36,21 +52,22 @@ public class SqlDatabaseService : ISqlDatabaseService
             using var conn = new SqlConnection(_connectionString);
             await conn.OpenAsync();
             await conn.CloseAsync();
+
         }
         catch (SqlException e)
         {
-            ret = e.Message;
+            ret = "SQL Error:" + e.Message;
         }
         catch (InvalidOperationException o)
         {
-            ret = o.Message;
+            ret = "Invalid Operation:" + o.Message;
         }
         catch (Exception ex)
         {
-            ret = ex.Message;
+            ret =  "Error:" + ex.Message;
         }
 
-        return ret;
+        return ret; // if empty -> sucess
     }
 
     // versão sem decriptação
@@ -60,9 +77,14 @@ public class SqlDatabaseService : ISqlDatabaseService
     }
 
     // versao com descriptação e async
-    public async Task<object> SelectRequestWithDecryptionAsync<T>(string sqlQuery, bool isMany, string keyName, string certificateName) where T : SqlEntity
+    public async Task<object> SelectRequestWithDecryptionAsync<T>(string sqlQuery, bool isMany, string? keyName, string? certificateName) where T : SqlEntity
     {
-        object ret = null;
+        object? ret = null;
+        
+        if (!sqlQuery.StartsWith("SELECT", StringComparison.OrdinalIgnoreCase))
+        {
+            throw new ArgumentException("Query deve começar com SELECT");
+        }
 
         try
         {
@@ -100,10 +122,18 @@ public class SqlDatabaseService : ISqlDatabaseService
             throw;
         }
 
-        return ret;    }
+        return ret;    
+    }
 
     public async Task InsertRequestAsync(string sqlQuery)
     {
+        var upperQuery = sqlQuery.TrimStart().ToUpperInvariant();
+        if (!upperQuery.StartsWith("INSERT") && 
+            !upperQuery.StartsWith("UPDATE") && 
+            !upperQuery.StartsWith("DELETE"))
+        {
+            throw new ArgumentException("Query deve começar com INSERT, UPDATE ou DELETE");
+        }
         try
         {
             using var conn = new SqlConnection(_connectionString);
@@ -116,5 +146,6 @@ public class SqlDatabaseService : ISqlDatabaseService
         {
             Console.WriteLine($"Error in InsertRequest: {ex.Message}");
             throw;
-        }    }
+        }    
+    }
 }
