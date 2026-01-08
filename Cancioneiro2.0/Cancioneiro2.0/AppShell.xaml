@@ -3,12 +3,18 @@
     x:Class="Cancioneiro2._0.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    xmlns:local="clr-namespace:Cancioneiro2._0"
-    Title="Cancioneiro2._0">
+    xmlns:local="clr-namespace:Cancioneiro2._0.Views"
+    Shell.FlyoutBehavior="Disabled">
 
+    <!--<ShellContent
+        Title="teste DB"
+        ContentTemplate="{DataTemplate local:TestDatabasePage}"
+        Route="TestDatabasePage" />-->
+    
     <ShellContent
-        Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
+        Title="Canções"
+        ContentTemplate="{DataTemplate local:CancaoListPage}"
+        Route="CancaoListPage" 
+        Icon="{FontImage Glyph='🎵', Color=White, Size=22}"/>
 
 </Shell>

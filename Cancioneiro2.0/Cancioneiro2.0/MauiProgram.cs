@@ -1,6 +1,8 @@
 ﻿using Microsoft.Extensions.Logging;
 using System.Reflection;
 using Microsoft.Extensions.Configuration;
+using Cancioneiro2._0.Services.Database;
+using Cancioneiro2._0.Views;
 
 namespace Cancioneiro2._0;
 
@@ -32,11 +34,14 @@ public static class MauiProgram
 
         builder.Configuration.AddConfiguration(config);
 
-        // ========================================
-        // REGISTAR SERVIÇOS (vais adicionar aqui)
-        // ========================================
-        // builder.Services.AddSingleton<ISqlDatabaseService, SqlDatabaseService>();
+        // Regist services
+        builder.Services.AddSingleton<ISqlDatabaseService, SqlDatabaseService>();
+        //builder.Services.AddTransient<MainPage>();
+        builder.Services.AddTransient<CancaoListPage>();
 
+
+
+        
 #if DEBUG
         builder.Logging.AddDebug();
 #endif

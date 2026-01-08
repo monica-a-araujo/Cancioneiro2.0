@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Cancioneiro2._0.CancaoListPage"
+             x:Class="Cancioneiro2._0.Views.CancaoListPage"
              Title="Cancioneiro">
-    
+
     <!-- 
     Grid: Layout principal dividido em 3 linhas
     - Auto: altura ajusta-se ao conteúdo

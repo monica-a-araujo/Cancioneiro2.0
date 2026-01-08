@@ -1,8 +1,9 @@
 using Cancioneiro2._0.Services.Database;
 using System.Collections.ObjectModel;
-using Cancioneiro2._0.Services.Models;
+using Cancioneiro2._0.Models;
 
-namespace Cancioneiro2._0;
+
+namespace Cancioneiro2._0.Views;
 
 public partial class CancaoListPage : ContentPage
 {
@@ -21,7 +22,6 @@ public partial class CancaoListPage : ContentPage
     public CancaoListPage(ISqlDatabaseService database)
     {
         InitializeComponent(); // Carrega o XAML
-        
         _database = database;
         
         // Cria a coleção observável (vazia inicialmente)
@@ -89,7 +89,7 @@ public partial class CancaoListPage : ContentPage
             LblStatus.TextColor = Colors.Red;
             
             // Mostra detalhes do erro ao utilizador
-            await DisplayAlert("Erro", 
+            await this.DisplayAlert("Erro", 
                 $"Falha ao carregar canções:\n\n{ex.Message}", 
                 "OK");
         }
@@ -113,7 +113,7 @@ public partial class CancaoListPage : ContentPage
         if (e.CurrentSelection.FirstOrDefault() is Cancao selectedCancao)
         {
             // Mostra detalhes numa popup
-            await DisplayAlert(
+            await this.DisplayAlert(
                 "Canção Selecionada",
                 $"Título: {selectedCancao.Titulo}\n" +
                 $"ID: {selectedCancao.Id}\n" +

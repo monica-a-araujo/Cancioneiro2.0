@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cancioneiro2.0")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+dc09d05e8a22fdf2c34c2211881ecafa216fcb49")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+9c1119a04a81ca8288b2ebbb347c21ab22449785")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cancioneiro2.0")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cancioneiro2.0")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

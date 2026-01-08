@@ -68,4 +68,17 @@
       <EmbeddedResource Include="appsettings.json" />
     </ItemGroup>
 
+    <ItemGroup>
+      <MauiXaml Update="View\CancaoListPage.xaml">
+        <SubType>Designer</SubType>
+      </MauiXaml>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Update="View\CancaoListPage.xaml.cs">
+        <DependentUpon>CancaoListPage.xaml</DependentUpon>
+        <SubType>Code</SubType>
+      </Compile>
+    </ItemGroup>
+
 </Project>
